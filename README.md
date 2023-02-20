@@ -1,6 +1,6 @@
 # Hello, I'm Liam👋
 
-![20c658e4c375268eed59d1c94b61059f](https://user-images.githubusercontent.com/115582651/220214383-c0dbfc85-b967-47cf-95ae-3ae9881daf1a.gif)
+#![20c658e4c375268eed59d1c94b61059f](https://user-images.githubusercontent.com/115582651/220214383-c0dbfc85-b967-47cf-95ae-3ae9881daf1a.gif)
 
 # 💫 About Me:
 I am a first-year Software Development student at the Southern Alberta Institute of Technology (SAIT). Despite being at the early stages of my programming journey, I have discovered a deep passion for the field. I love the challenge of problem-solving and the opportunity to craft innovative and creative solutions. I am excited to continue my journey in software development and see where it takes me.
