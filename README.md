@@ -18,11 +18,6 @@ I am a first-year Software Development student at the Southern Alberta Institute
 ![](https://github-readme-stats.vercel.app/api?username=LiamMarrie&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LiamMarrie&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamMarrie&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=LiamMarrie&icon=1&color=1)](https://visitcount.itsvg.in)
