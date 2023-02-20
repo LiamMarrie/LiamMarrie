@@ -1,7 +1,6 @@
 # Hello, I'm Liam👋
 
 ![20c658e4c375268eed59d1c94b61059f](https://user-images.githubusercontent.com/115582651/220214383-c0dbfc85-b967-47cf-95ae-3ae9881daf1a.gif)
-
 #
 
 # 💫 About Me:
