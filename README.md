@@ -22,5 +22,5 @@ I am a first-year Software Development student at the Southern Alberta Institute
 #
 [![](https://visitcount.itsvg.in/api?id=LiamMarrie&icon=1&color=1)](https://visitcount.itsvg.in)
 #
-![0f7564e2ae64c10ee67eb4a57159912b](https://user-images.githubusercontent.com/115582651/220807377-f204a646-e830-4f79-bab2-ea7f8d7b1ba5.gif)
+![0f7564e2ae64c10ee67eb4a57159912b](https://user-images.githubusercontent.com/115582651/220807377-f204a646-e830-4f79-bab2-ea7f8d7b1ba5.gif) him.
 
