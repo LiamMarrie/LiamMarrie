@@ -19,9 +19,8 @@ I am a first-year Software Development student at the Southern Alberta Institute
 ![](https://github-readme-stats.vercel.app/api?username=LiamMarrie&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LiamMarrie&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamMarrie&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
---
--![04d3ec5ae96b09d440ec07e41d480007](https://user-images.githubusercontent.com/115582651/220807201-9d6cb7cd-b567-44f4-ad64-4ba026d1b4ad.gif)
-
-
+#
 [![](https://visitcount.itsvg.in/api?id=LiamMarrie&icon=1&color=1)](https://visitcount.itsvg.in)
+#
+![0f7564e2ae64c10ee67eb4a57159912b](https://user-images.githubusercontent.com/115582651/220807377-f204a646-e830-4f79-bab2-ea7f8d7b1ba5.gif)
 
