@@ -1,6 +1,3 @@
-![hard](https://user-images.githubusercontent.com/115582651/220806898-8e4903f2-962e-4b44-8cb2-6664f5f34e2a.gif)
-
-
 # Hello, I'm Liam👋
 
 # 💫 About Me:
